@@ -18,7 +18,7 @@ I mostly work with javascript .
   
  <p float="left">
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="assets/mongo.gif" height="80" />
+    <img src="https://github.com/Ninja-nick-s/Ninja-nick-s/blob/master/assets/mongo.gif" height="80" />
   </a>
 </p>
 
