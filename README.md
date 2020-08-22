@@ -8,7 +8,7 @@ I mostly work with javascript .
 
 <p float="left">
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="assets/html-css-js.png" height="70" />
+    <img src="https://github.com/Ninja-nick-s/Ninja-nick-s/blob/master/assets/html-css-js.png" height="70" />
   </a>
  </p>
   
