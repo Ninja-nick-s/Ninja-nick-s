@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-I am Nikhil a passionate and creative developer from &nbsp;with a strong interest in Open-Source. 🎯
+I am Nikhil a passionate and creative developer &nbsp;with a strong interest in Open-Source. 🎯
 
-I mostly work with javascript .☁️🚀
+I mostly work with javascript .
 
 
 <p float="left">
