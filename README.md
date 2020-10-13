@@ -22,6 +22,8 @@ I mostly work with javascript .
   </a>
 </p>
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Ninja-nick-s&hide=issues,stars&show_icons=true&theme=flag-india)](https://github.com/Ninja-nick-s/github-readme-stats)
+
 ### 📫 How to reach me? 
 
   
